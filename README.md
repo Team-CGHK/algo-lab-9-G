@@ -1,4 +1,4 @@
-algo-lab-9-G
+Algorithms Lab 9, Problem G
 ============
 
 Aho-Corasick for single match
